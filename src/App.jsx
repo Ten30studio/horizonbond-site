@@ -506,7 +506,9 @@ function ContactCTA() {
         )}
 
         <p style={{ color: '#666', fontSize: '0.85rem', marginTop: 24 }}>
-          horizonbondcorp@gmail.com
+          <a href="mailto:hello@horizonbond.org" style={{ color: '#B8944F', textDecoration: 'none' }}>
+            hello@horizonbond.org
+          </a>
         </p>
       </div>
     </section>
